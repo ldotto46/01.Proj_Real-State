@@ -3,7 +3,7 @@ Este repositorio es un trabajo de data science y sirve para identificar los dife
 
 Recientemente te incorporaste a un equipo de datos de una Gran inmobiliaria. ¿Que es lo primero que haces? 
 
-Al ingresar a un trabajo se te plantea una problematica en particular, siendo esta la de ayudar a tasadores de la empresa Properati a valuar propiedades. Pero haciendo un analisis global de la situacion nos encontramos con diversos universos que entran en juego. Identificando estos 3 universos como casos de estudio:
+Al ingresar a un trabajo se te plantea una problematica en particular, siendo esta la de ayudar a tasadores de la empresa Properati a valuar propiedades. Pero haciendo un analisis global de la situacion nos encontramos con diversos universos que entran en juego. Identificando estos 3 universos como datos en casos de estudio tenemos:
 
 1 - Datos de la empresa en la que se trabaja (Properati)
 
