@@ -21,4 +21,4 @@ Es menester no solo saber las problematicas del equipo al cual te incorporaste r
 
 ¿Que es lo primero que harias al obtener los datos de la empresa en la que trabajas?
 
-Primero nos interiorizamos con el problema local particular para el equipo en el cual estmaos trabajando. Luego exploramos los datos para visualizar los atributos del dataset y ver si hay valores que sean inconsistentes. 
+Primero nos interiorizamos con el problema local particular para el equipo en el cual estmaos trabajando. Luego exploramos los datos para visualizar los atributos del dataset y ver si hay valores que sean inconsistentes. Luego tratamos de buscar relaciones entre los atributos y por ultimo nos enfocamos en realizar un modelo ML. 
