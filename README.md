@@ -3,7 +3,7 @@ Este repositorio es un trabajo de data science y sirve para identificar los dife
 
 Recientemente te incorporaste a un equipo de datos de una Gran inmobiliaria. ¿Que es lo primero que haces? 
 
-Al ingresar a un trabajo se te plantea una problematica en particular, siendo esta la de ayudar a tasadores de la empresa Properati a valuar propiedades. Pero haciendo un analisis global de la situacion nos encontramos con diversos universos que entran en juego. Identificando estos 3 universos como datos en casos de estudio tenemos:
+Al ingresar a un trabajo se te plantea una problematica en particular, siendo esta la de ayudar a tasadores de la empresa Properati a valuar propiedades. Pero haciendo un analisis global de la situacion nos encontramos con diversos universos que entran en juego. Es menester no solo saber las problematicas del equipo al cual te incorporaste recientemente, sino tambien saber las necesidades de los clientes y de la empresa Porperti. Identificando estos 3 universos como datos en casos de estudio tenemos:
 
 1 - Datos de la empresa en la que se trabaja (Properati)
 
@@ -16,8 +16,7 @@ Comenzaremos con Properati(https://properati.com/), compañia con plataforma web
 
 ![Propert](https://user-images.githubusercontent.com/76250515/113466770-b44af480-9414-11eb-9d40-731fe6d01373.JPG)
 
-
-Es menester no solo saber las problematicas del equipo al cual te incorporaste recientemente, sino tambien saber las necesidades de los clientes y de la empresa Porperti.
+Entonces..
 
 ¿Que es lo primero que harias al obtener los datos de la empresa en la que trabajas?
 
