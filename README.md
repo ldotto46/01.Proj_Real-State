@@ -15,6 +15,7 @@ Al ingresar a un trabajo se te plantea una problematica en particular, siendo es
 Comenzaremos con Properati compañia con plataforma web y mobile cuya vision y mision se describe a continuacion:
 
 ![Propert](https://user-images.githubusercontent.com/76250515/113466770-b44af480-9414-11eb-9d40-731fe6d01373.JPG)
+
 (https://properati.com/)
 
 Entonces..
