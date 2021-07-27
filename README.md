@@ -1,5 +1,6 @@
 # Real_State
-https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.goldpathrealestate.com%2Fwp-content%2Fuploads%2F2016%2F05%2FReal-Estate-Investing-604x239.jpg&f=1&nofb=1
+
+(https://www.becomealocalleader.com/wp-content/uploads/2017/09/Online-real-estate-listings.jpg)
 
 Este repositorio es un trabajo de data science y sirve para identificar los diferentes agentes que estan involucrados en Real State.
 
