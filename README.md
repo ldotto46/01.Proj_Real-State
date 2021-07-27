@@ -1,6 +1,6 @@
 # Real_State
 
-(https://www.becomealocalleader.com/wp-content/uploads/2017/09/Online-real-estate-listings.jpg)
+![imagen casa]((https://www.becomealocalleader.com/wp-content/uploads/2017/09/Online-real-estate-listings.jpg)
 
 Este repositorio es un trabajo de data science y sirve para identificar los diferentes agentes que estan involucrados en Real State.
 
